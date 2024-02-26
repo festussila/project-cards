@@ -17,14 +17,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Management", "src\Mana
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cards.WebAPI", "src\Services\Cards.WebAPI\Cards.WebAPI.csproj", "{A414DF69-8707-493D-B7DC-AF3EDEE84C98}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{A81941FF-8928-47D9-AB32-A1B36B500515}"
-	ProjectSection(SolutionItems) = preProject
-		docs\ErrorCodes.MD = docs\ErrorCodes.MD
-	EndProjectSection
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{80EBDDD6-D870-42D3-9231-6B73CADA571F}"
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{97A2D8CD-D603-479E-8966-71A494DBF78F}"
+	ProjectSection(SolutionItems) = preProject
+		docs\ErrorCodes.MD = docs\ErrorCodes.MD
 	EndProjectSection
 EndProject
 Global
