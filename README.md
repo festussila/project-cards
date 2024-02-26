@@ -1,5 +1,3 @@
-# ProjectCards
-
 ## Introduction 
 ProjectCards is a RESTful WebAPI that allows users to create and manage tasks in the form of cards.
 
