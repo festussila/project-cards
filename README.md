@@ -3,18 +3,19 @@ ProjectCards is a RESTful WebAPI that allows users to create and manage tasks in
 
 ## Getting Started
 1. Editor
-Use either VS Code or Visual Studio 2022(latest release) to contribute.
-
-2.	Dependencies
- 1. Target Framework - .NET 8.0.1
- 2. Runtime - .NET Core 8.0.1
- 3. SDK - .NET 8 Version 8.0.101
- 4. Latest(stable) Nuget Packages 
+	Use either VS Code or Visual Studio 2022(latest release) to contribute.
+  
+2. Dependencies
+    1. Target Framework - .NET 8.0.1
+	2. Runtime - .NET Core 8.0.1
+	3. SDK - .NET 8 Version 8.0.101
+	4. Latest(stable) Nuget Packages
 
 ## Structure
 The project leverages C# Language, MS SQL Server for database. The project uses Code-First approach to define data models.
 
 The project is structured logically into 3 parts:-
+
 	1. Domain - Entities and DB Scaffolding
 	2. Management - Business Logic
 	3. Services - RESTful WebAPI to expose the endpoints
